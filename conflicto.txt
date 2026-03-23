@@ -1,1 +1,1 @@
-Este es el archivo CONFLICTO
+cambio en linea 1 desde rama_2 por RodrigoFranco
