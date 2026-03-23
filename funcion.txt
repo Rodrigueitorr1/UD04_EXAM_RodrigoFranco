@@ -1,1 +1,3 @@
 Este es el archivo FUNCION
+
+RFSDAM51 - Cambio en funcion.txt en Rama_1 por RodrigoFranco
